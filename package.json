@@ -1,0 +1,28 @@
+{
+  "name": "tidyfactor-cleaner",
+  "version": "1.3.0",
+  "description": "Universal Developer Environment, IDE & System Hygiene Engine with Contextual Decision Layer (CDL)",
+  "main": "SKILL.md",
+  "keywords": [
+    "tidyfactor",
+    "cleaner",
+    "hygiene",
+    "diskspace",
+    "vscode",
+    "antigravity",
+    "browser-cache",
+    "nextjs",
+    "laravel",
+    "docker",
+    "devtools"
+  ],
+  "author": "TidyFactor",
+  "license": "MIT",
+  "files": [
+    "SKILL.md",
+    "references/**/*",
+    "README.md",
+    "README.ar.md",
+    "brand.json"
+  ]
+}
